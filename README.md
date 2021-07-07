@@ -11,3 +11,6 @@
 []()<br>
 []()<br>
 []()<br>
+```การดาวโหลดไฟล์ ส่งงาน```
+[How to Upload Videos to Canvas for Assignments: 4 Ways for Students (Canvas LMS Instructure)](https://www.youtube.com/watch?v=FB-ibMSAGh0)<br>
+[]()<br>

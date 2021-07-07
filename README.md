@@ -17,6 +17,6 @@
 [The Story You Believe About Yourself Determines Your Success](https://www.youtube.com/watch?v=68Wz25NMX2k&t=44s)<br>
 [How to Use the Power of Self-Discipline | Brian Tracy](https://www.youtube.com/watch?v=pyNfB24Eo4A)<br>
 [The 7 C's to Success with Brian Tracy](https://www.youtube.com/watch?v=FfohcP_zBkQ)<br>
-[]()<br>
+[Brian Tracy - How To Double Your Income](https://www.youtube.com/watch?v=9QzFGqcxLJg)<br>
 []()<br>
 []()<br>

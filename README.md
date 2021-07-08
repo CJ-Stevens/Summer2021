@@ -11,7 +11,9 @@
 []()<br>
 ```การดาวโหลดไฟล์ ส่งงาน```<br>
 [How to Upload Videos to Canvas for Assignments: 4 Ways for Students (Canvas LMS Instructure)](https://www.youtube.com/watch?v=FB-ibMSAGh0)<br>
-[]()<br>
+[Uploading your own videos](https://edu.gcfglobal.org/en/youtube/uploading-and-sharing-videos/1/)<br>
+[Recording Your Own Videos on YouTube](https://www.youtube.com/watch?v=OlN4RksQpCQ&t=35s)<br>
+[อัปโหลดไปยัง YouTube](https://www.youtube.com/watch?v=klVWGHtRTuE&t=21s)<br>
 ### CMST&220 SU21 N770 - PUBLIC SPEAKING
 ```วีดีโอที่ครูใส่ใว้ในบทเรียนวิชานี้```<br>
 [The Story You Believe About Yourself Determines Your Success](https://www.youtube.com/watch?v=68Wz25NMX2k&t=44s)<br>

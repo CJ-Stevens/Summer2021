@@ -11,6 +11,10 @@
 [Collaborative Statistics Chapter 1 Video Lecture Captioned](https://www.youtube.com/watch?v=viXNnZO8X9k&t=1374s)<br>
 [Descritptive Statistics](https://www.youtube.com/watch?v=OEC8fIsJ8ro)<br>
 [What are Statistics](https://www.youtube.com/watch?v=qGYVDWv5xWs)<br>
+[Sampling Methods - Introduction to Statistics text Module 1](https://www.youtube.com/watch?v=no57iYTiSuE&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=3)<br>
+[Observational Studies and Experiments - Introduction to Statistics text Module 1](https://www.youtube.com/watch?v=PYy3HRqV3Gg&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=1)<br>
+[Stem and Leaf Plots aka Stemplots - Introduction to Statistics text Module 2](https://www.youtube.com/watch?v=gGQi2yd9krw&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=3)<br>
+[Median, Quartiles and Interquartile Range : ExamSolutions - Introduction to Statistics text Module 2](https://www.youtube.com/watch?v=muXLHhEkXSQ&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=4)<br>
 []()<br>
 []()<br>
 []()<br>

@@ -14,7 +14,17 @@
 [Sampling Methods - Introduction to Statistics text Module 1](https://www.youtube.com/watch?v=no57iYTiSuE&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=3)<br>
 [Observational Studies and Experiments - Introduction to Statistics text Module 1](https://www.youtube.com/watch?v=PYy3HRqV3Gg&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=1)<br>
 [Stem and Leaf Plots aka Stemplots - Introduction to Statistics text Module 2](https://www.youtube.com/watch?v=gGQi2yd9krw&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=3)<br>
+[Introduction to Statistics](https://www.youtube.com/watch?v=zgcx1bs_uVo&list=RDCMUCNVMxRMEwvo9AS-Jfh6fQFg&start_radio=1&rv=zgcx1bs_uVo&t=266)<br>
+[]()<br>
+[]()<br>
 [Median, Quartiles and Interquartile Range : ExamSolutions - Introduction to Statistics text Module 2](https://www.youtube.com/watch?v=muXLHhEkXSQ&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=4)<br>
+[MAT 110 Basic Statistics Lesson 1 (video 1).mp4](https://www.youtube.com/watch?v=daIb2VF1i3M)<br>
+[MAT 110 Basic Statistics Lesson 1 (video 3).mp4](https://www.youtube.com/watch?v=rFNWDLSeaiU&list=RDCMUCYbGikXTKlQ41KzXaFsuqQg&index=3)<br>
+[]()<br>
+
+```การใช้เครื่องคิดเลขสถิติ```<br>
+[สอนการใช้เครื่องคิดเลขสถิติพื้นฐาน(fx350ms)](https://www.youtube.com/watch?v=zHVzi0F9WpM)<br>
+[สอนใช้เครื่องคิดเลขสำหรับข้อมูลแบบแบ่งกลุ่ม [fx350ms]](https://www.youtube.com/watch?v=3-JMEL9O36Q)<br>
 []()<br>
 []()<br>
 []()<br>

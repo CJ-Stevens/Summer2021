@@ -17,6 +17,8 @@
 [Introduction to Statistics](https://www.youtube.com/watch?v=zgcx1bs_uVo&list=RDCMUCNVMxRMEwvo9AS-Jfh6fQFg&start_radio=1&rv=zgcx1bs_uVo&t=266)<br>
 [การวิเคราะห์ข้อมูลวิจัยพื้นฐาน ด้วยสถิติเชิงพรรณาและการวิเคราะห์องค์ประกอบ](https://www.youtube.com/watch?v=Ew9nYO5OF0E)<br>
 [การวิเคราะห์ความแตกต่างของค่าเฉลี่ยและของกลุ่ม](https://www.youtube.com/watch?v=1LNNN6fZWxU)<br>
+[*** การวิเคราะห์การถดถอย (Regression Analysis)](https://www.youtube.com/watch?v=iy3FEcZx0Uo)<br>
+[]()<br>
 []()<br>
 []()<br>
 [Median, Quartiles and Interquartile Range : ExamSolutions - Introduction to Statistics text Module 2](https://www.youtube.com/watch?v=muXLHhEkXSQ&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=4)<br>

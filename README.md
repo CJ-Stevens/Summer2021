@@ -18,7 +18,7 @@
 [การวิเคราะห์ข้อมูลวิจัยพื้นฐาน ด้วยสถิติเชิงพรรณาและการวิเคราะห์องค์ประกอบ](https://www.youtube.com/watch?v=Ew9nYO5OF0E)<br>
 [การวิเคราะห์ความแตกต่างของค่าเฉลี่ยและของกลุ่ม](https://www.youtube.com/watch?v=1LNNN6fZWxU)<br>
 [*** การวิเคราะห์การถดถอย (Regression Analysis)](https://www.youtube.com/watch?v=iy3FEcZx0Uo)<br>
-[]()<br>
+[z-Test | คำนวณ z | พิสูจน์ค่าเฉลี่ย — สถิติเพื่อการวิเคราะห์ข้อมูล [LittleClass] (Stat z-Test 3)](https://www.youtube.com/watch?v=URgt9rKwQOQ)<br>
 []()<br>
 []()<br>
 [Median, Quartiles and Interquartile Range : ExamSolutions - Introduction to Statistics text Module 2](https://www.youtube.com/watch?v=muXLHhEkXSQ&list=PLwe4ajtQ6GaB1cqBqBeWvJP805TH3Ds7U&index=4)<br>
@@ -29,7 +29,7 @@
 [สอนการใช้เครื่องคิดเลขสถิติพื้นฐาน(fx350ms)](https://www.youtube.com/watch?v=zHVzi0F9WpM)<br>
 [สอนใช้เครื่องคิดเลขสำหรับข้อมูลแบบแบ่งกลุ่ม [fx350ms]](https://www.youtube.com/watch?v=3-JMEL9O36Q)<br>
 [AP Stats Calculator Overview](https://www.youtube.com/watch?v=cIsM8SCfEm8)<br>
-
+[Basic Calculator Functions (Chp. 1 - AP Statistics)](https://www.youtube.com/watch?v=9A_8IsWimnc)<br>
 ```Channelของคนนี้ดีมาก Vectors Academy```<br>
 [Chi Square test](https://www.youtube.com/watch?v=f53nXHoMXx4&list=RDCMUCFUTIAx5h703U3gEcM1157Q&start_radio=1&rv=f53nXHoMXx4&t=0)<br>
 [Statistics: ANOVA (Analysis of Variance)](https://www.youtube.com/watch?v=ynx04Qgqdrc&list=RDCMUCFUTIAx5h703U3gEcM1157Q&index=4)<br>

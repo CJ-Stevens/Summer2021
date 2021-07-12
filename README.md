@@ -28,7 +28,7 @@
 ```การใช้เครื่องคิดเลขสถิติ```<br>
 [สอนการใช้เครื่องคิดเลขสถิติพื้นฐาน(fx350ms)](https://www.youtube.com/watch?v=zHVzi0F9WpM)<br>
 [สอนใช้เครื่องคิดเลขสำหรับข้อมูลแบบแบ่งกลุ่ม [fx350ms]](https://www.youtube.com/watch?v=3-JMEL9O36Q)<br>
-[]()<br>
+[AP Stats Calculator Overview](https://www.youtube.com/watch?v=cIsM8SCfEm8)<br>
 
 ```Channelของคนนี้ดีมาก Vectors Academy```<br>
 [Chi Square test](https://www.youtube.com/watch?v=f53nXHoMXx4&list=RDCMUCFUTIAx5h703U3gEcM1157Q&start_radio=1&rv=f53nXHoMXx4&t=0)<br>

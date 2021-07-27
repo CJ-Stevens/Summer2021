@@ -7,6 +7,11 @@
 [Graphing Functions on a TI-84 Calculator - Lesson 2](https://www.youtube.com/watch?v=CGOk_dKoddA)<br>
 [Using TI-84 to find slope and y-intercept](https://www.youtube.com/watch?v=1YRs7nDNZr8)<br>
 [Learn Fractions In 7 min ( Fast Review on How To Deal With Fractions)](https://www.youtube.com/watch?v=dG2WSstQyUE)<br>
+```Video ในหนังสือเรียน มีทำในแบบฝึกหัดเรียนด้วย```<br>
+[How to use the online Normal Distribution Calculator](https://www.youtube.com/watch?v=rOs-jlJvcyM&t=315s)<br>
+[e_RMUTT ตอนที่ 2 เรื่อง การแจกแจงปกติ ช่วงที่ 1 2/7](https://www.youtube.com/watch?v=v0wRPxG67jA)<br>
+[วีดีโอนี้เข้าใจง่ายมาก Channel ชื่อ "Simple Learning Pro" The Normal Distribution and the 68-95-99.7 Rule (5.2)](https://www.youtube.com/watch?v=mtbJbDwqWLE)<br>
+###This channel very good for practice "Mathispower4u"<br>
 ```Video Statistice```<br>
 [Collaborative Statistics Chapter 1 Video Lecture Captioned](https://www.youtube.com/watch?v=viXNnZO8X9k&t=1374s)<br>
 [Descritptive Statistics](https://www.youtube.com/watch?v=OEC8fIsJ8ro)<br>

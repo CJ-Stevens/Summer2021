@@ -12,6 +12,7 @@
 [e_RMUTT ตอนที่ 2 เรื่อง การแจกแจงปกติ ช่วงที่ 1 2/7](https://www.youtube.com/watch?v=v0wRPxG67jA)<br>
 [วีดีโอนี้เข้าใจง่ายมาก Channel ชื่อ "Simple Learning Pro" The Normal Distribution and the 68-95-99.7 Rule (5.2)](https://www.youtube.com/watch?v=mtbJbDwqWLE)<br>
 ###This channel very good for practice "Mathispower4u"<br>
+[Normal Distribution: Calculating Probabilities/Areas (z-table)](https://www.youtube.com/watch?v=p_KApjpyBHE)<br>
 ```Video Statistice```<br>
 [Collaborative Statistics Chapter 1 Video Lecture Captioned](https://www.youtube.com/watch?v=viXNnZO8X9k&t=1374s)<br>
 [Descritptive Statistics](https://www.youtube.com/watch?v=OEC8fIsJ8ro)<br>
